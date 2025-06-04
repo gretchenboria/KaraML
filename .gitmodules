@@ -1,0 +1,3 @@
+[submodule "KaraML-Studio"]
+	path = KaraML-Studio
+	url = https://github.com/jorgeajimenez/KaraML-Studio
