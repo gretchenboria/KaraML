@@ -1,3 +1,21 @@
-[submodule "KaraML-Studio"]
-	path = KaraML-Studio
-	url = https://github.com/jorgeajimenez/KaraML-Studio
+[submodule "KaraML-Factory"]
+	path = KaraML-Factory
+	url = https://github.com/jorgeajimenez/KaraML-Factory.git
+[submodule "KaraML-Mobile"]
+	path = KaraML-Mobile
+	url = https://github.com/jorgeajimenez/KaraML-Mobile.git
+[submodule "KaraML-Sing"]
+	path = KaraML-Sing
+	url = https://github.com/jorgeajimenez/KaraML-Sing.git
+[submodule "KaraML-StageFlow"]
+	path = KaraML-StageFlow
+	url = https://github.com/jorgeajimenez/KaraML-StageFlow.git
+[submodule "KaraML-StageHand"]
+	path = KaraML-StageHand
+	url = https://github.com/jorgeajimenez/KaraML-StageHand.git
+[submodule "KaraML-VenueReach"]
+	path = KaraML-VenueReach
+	url = https://github.com/jorgeajimenez/KaraML-VenueReach.git
+[submodule "KaraML-Website"]
+	path = KaraML-Website
+	url = https://github.com/jorgeajimenez/KaraML-Website.git
