@@ -1,5 +1,5 @@
 import React from 'react';
-import { Brain, Queue, Mic2, Sparkles, Users, Zap } from 'lucide-react';
+import { Brain, Fuel as Queue, Mic2, Sparkles, Users, Zap } from 'lucide-react';
 
 const Features = () => {
   const features = [
