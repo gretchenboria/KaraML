@@ -1,4 +1,3 @@
-import React from 'react';
 import { Download, Mic, Music, Share2 } from 'lucide-react';
 
 const HowItWorks = () => {

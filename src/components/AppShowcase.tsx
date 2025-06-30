@@ -1,4 +1,3 @@
-import React from 'react';
 import { Smartphone, Tablet, Monitor } from 'lucide-react';
 
 const AppShowcase = () => {

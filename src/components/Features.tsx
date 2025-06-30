@@ -1,4 +1,3 @@
-import React from 'react';
 import { Brain, Fuel as Queue, Mic2, Sparkles, Users, Zap } from 'lucide-react';
 
 const Features = () => {

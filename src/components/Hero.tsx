@@ -1,4 +1,3 @@
-import React from 'react';
 import { Play, Download, Star, Users, Music } from 'lucide-react';
 
 const Hero = () => {
